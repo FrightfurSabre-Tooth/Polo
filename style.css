@@ -1,0 +1,63 @@
+body {
+    background: #F0F0F0;
+}
+
+#Banner {
+    width: 100.8%;
+    height: 360px;
+    margin-left: -7px;
+    margin-top: -10px;
+}
+
+#polo1 {
+    margin-top: 30px;
+    margin-left: 130px;
+    height: 440px;
+    border: #757575 10px solid;
+}
+
+#polo2 {
+    margin-top: 40px;
+    margin-left: 160px;
+    height: 440px;
+    border: #757575 10px solid;
+}
+
+#polo3 {
+    margin-top: 40px;
+    margin-left: 160px;
+    height: 440px;
+    border: #757575 10px solid;
+}
+
+#polo4 {
+    margin-top: 40px;
+    margin-left: 160px;
+    height: 650px;
+    border: #ffee00 10px solid;
+}
+
+#polo5 {
+    margin-top: 40px;
+    margin-left: 160px;
+    height: 650px;
+    border: #ffee00 10px solid;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-right: 750px;
+    margin-left: 750px;
+    border: #757575 10px solid;
+}
+
+#paragrafo1 {
+    font-size: 30px;
+}
+
+#polo6 {
+    height: 500px;
+    width: 60%;
+    border: rgb(0, 0, 0) 10px solid;
+}
